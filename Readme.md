@@ -1,5 +1,8 @@
-# Test Foo
+# Directory Catalogue
 
-[Page 1](page-1)
+[Favourite](favourite)
 
-[Page 2](page-2)
+[Tags](tags)
+
+[Directory](directory)
+
