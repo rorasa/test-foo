@@ -1,5 +1,5 @@
 # Test Foo
 
-[page-1](page 1)
+[Page 1](page-1)
 
-[page-2](page 2)
+[Page 2](page-2)
